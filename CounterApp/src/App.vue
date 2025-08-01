@@ -20,7 +20,7 @@
 
 <style scoped>
   main {
-    background-color: blue;
+    background-color: rgb(39, 39, 191);
     height: 100vh;
     width: 100vw;
     display: flex;
